@@ -1,0 +1,8 @@
+main: de.sadlife.elementalresistance.ElementalResistance
+name: ElementalResistance
+version: '0.1'
+description: Sadlife Elemental Resistance System
+author: xCrimsonAxe
+website: sadlife.de
+api-version: 1.13
+prefix: ElementalResistance
